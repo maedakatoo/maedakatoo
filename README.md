@@ -5,4 +5,4 @@ uwu
 ![](https://github-readme-stats.vercel.app/api?username=maedakatoo&show_icons=true&theme=buefy&icon_color=bd96dc)
 i love anime maid girls
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maedakatoo&layout=compact)
-gb dxsc vc bvbmnbfgtyuinbvgk mljhkllcvk
+gb dxsc vc bvbmnbfgimracisttyuinbvgk mljhkllcvk
