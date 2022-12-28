@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&custom_title=Statistics&username=maedakatoo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=default &card_width=320&theme=buefy&username=maedakatoo" height="150"  />
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maedakatoo)]
 </div>
 
 ###
