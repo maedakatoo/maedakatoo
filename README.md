@@ -16,14 +16,10 @@
   <h3 align="center">Databases:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+
 </div>
-
-###
-
+<br><br><br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false&custom_title=Statistics&username=maedakatoo" height="150" alt="stats graph"  />
-<img src="[https://github-readme-stats.vercel.app/api?username=maedakatoo&show_icons=true&theme=buefy](https://github-readme-stats.vercel.app/api/top-langs/?username=maedakatoo&layout=compact)]" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=maedakatoo&theme=buefy&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false&username=maedakatoo" height="150" alt="languages graph"  />
 </div>
-
-###
